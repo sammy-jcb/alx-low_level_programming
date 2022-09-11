@@ -1,9 +1,8 @@
 #include <unistd.h>
 
 /**
- * main - Prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
- * followed by a new line, to standard error.
- * Description: Prints out an error
+ * main - program entry point
+ * followed by a new line, to standard error
  * Return: 1 Error found
  */
 
