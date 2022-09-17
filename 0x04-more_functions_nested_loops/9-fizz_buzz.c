@@ -2,10 +2,9 @@
 
 /**
  * main - Prints the numbers form 1-100, but for multples of three,
- * 	  Fizz is printed instead of the number for multiple of five,
- * 	  Buzz and for multiples of both three and five, FizzBuzz.
- *
- * Return: Always 0
+ *  Fizz is printed instead of the number for multiple of five,
+ *  Buzz and for multiples of both three and five, FizzBuzz.
+ *  Return: Always 0
  */
 int main(void)
 {
